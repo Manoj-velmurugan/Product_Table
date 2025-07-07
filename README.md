@@ -48,6 +48,50 @@ Use meaningful text inside the table for clarity.
 
 Keep the table design strictly in HTML for simplicity.
 ## HTML Code:
+```
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Product Table</title>
+  </head>
+  <body>
+    <table border="1" cell>
+      <h1>Product Listed</h1>
+      <thead>
+        <tr>
+          <th>Product Name</th>
+          <th>Product Price</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Laptop</td>
+          <td>₹45,000</td>
+          <td>High-speed performance</td>
+        </tr>
+        <tr>
+          <td>Phone</td>
+          <td>₹35000</td>
+          <td>Gaming segment</td>
+        </tr>
+        <tr>
+          <td>Earbuds</td>
+          <td>₹5000</td>
+          <td>Dolby Atmos</td>
+        </tr>
+        <tr>
+          <td>Smartwatch</td>
+          <td>₹7000</td>
+          <td>AI Enabled smartwatch</td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
+```
 
 ## Output:
 
