@@ -1,17 +1,16 @@
-/* 1. Basic Page Styling */
 body {
   background-color: #f9f9f9;
   font-family: Arial, sans-serif;
 }
 
-/* 2. Table Layout */
+
 table {
   width: 80%;
   margin: auto;
   border-collapse: collapse;
 }
 
-/* 3. Table Header Styling */
+
 th {
   background-color: lightblue;
   color: black;
@@ -19,7 +18,7 @@ th {
   text-align: left;
 }
 
-/* 4. Table Body Styling */
+
 td {
   border: 1px solid #ddd;
   padding: 10px;
@@ -33,7 +32,7 @@ tr:hover {
   background-color: #e0f7fa;
 }
 
-/* 5. Caption Styling */
+
 caption {
   caption-side: top;
   font-weight: bold;
@@ -41,7 +40,7 @@ caption {
   font-size: 1.2em;
 }
 
-/* 6. Centered Heading */
+
 h1 {
   text-align: center;
 }
