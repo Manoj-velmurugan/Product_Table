@@ -58,7 +58,7 @@ Keep the table design strictly in HTML for simplicity.
   </head>
   <body>
     <table border="1" cell>
-      <h1>Product Listed</h1>
+      <caption>Product Listed</caption>
       <thead>
         <tr>
           <th>Product Name</th>
